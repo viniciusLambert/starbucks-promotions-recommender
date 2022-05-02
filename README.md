@@ -15,7 +15,7 @@
 
 ## Project Motivation<a name="motivation"></a>
 
-This Project wants to analyse Starbucks offer data to optimize future offer distributions.
+This Project analyse data and implements machine learning model to predict how much someone will spend based on demographics and offer type.
 
 ### Introduction
 
