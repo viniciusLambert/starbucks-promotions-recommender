@@ -1,17 +1,5 @@
-# Tweet Classifier Project
+# Start Busck promotions recommender
 
-### Table of Contents
-
-- [Tweet Classifier Project](#tweet-classifier-project)
-    - [Table of Contents](#table-of-contents)
-  - [Project Motivation<a name="motivation"></a>](#project-motivation)
-  - [Installation <a name="installation"></a>](#installation-)
-  - [Data](#data)
-    - [Data Advise](#data-advise)
-  - [File Descriptions <a name="files"></a>](#file-descriptions-)
-  - [Instructions:](#instructions)
-  - [Licensing, Authors, Acknowledgements<a name="licensing"></a>](#licensing-authors-acknowledgements)
-  - [Next Possibles Steps](#next-possibles-steps)
 
 ## Project Motivation<a name="motivation"></a>
 
